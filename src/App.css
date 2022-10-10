@@ -1,0 +1,67 @@
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.card-container.card {
+  max-width: 350px !important;
+  padding: 40px 40px;
+}
+
+.card {
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+
+}
+
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.bg-company-red {
+  background-color: rgb(81, 31, 75) !important;
+
+}
+.con{
+  background-color: rgb(254, 254, 254);
+}
+
+.card{
+
+  width:50%;
+
+  margin:auto;
+
+}
+
+.c{
+  width:50%;
+  height: 80%;
+  margin:auto;
+
+  background-image: url("./images/welcome.jpg");
+}
+
+.pro img{
+  width: 80%;
+}
+body{
+
+  background: #bdc3c7;  /* fallback for old browsers */
+
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+
+  background: linear-gradient(to right, #bf9ace,#e0cfdd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
